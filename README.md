@@ -1,5 +1,5 @@
 # Contact Me
-Presentation Card as IT/BI/ Freelancer
+Presentation Card as IT/BI/Web3 Freelancer
 
 ## Marco A. Domínguez C.
 **Web3 & Blockchain Architect | AI/BI Consultant | Full-Stack Developer**  
