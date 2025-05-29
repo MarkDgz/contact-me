@@ -33,19 +33,19 @@ With **30+ years of international freelancing experience** in Web3, blockchain, 
 | Area               | Technologies & Achievements |  
 |--------------------|-----------------------------|  
 | **Blockchain**     | EVM (Polygon/BSC), Solana, Polkadot, Smart Contracts, DApps, Web3.js, Ethers.js |  
-| **Backend**        | Laravel, NodeJS, Python, Rust, C++, Java, PL/SQL |  
+| **Backend**        | Laravel, NodeJS, Python, Rust, C++, Java, PL/SQL, RPG, Wordpress CMS |  
 | **AI/ML**          | Image generation (Stable Diffusion), model training, data pipelines |  
-| **BI**             | Oracle BI, Cognos, ETL design, executive dashboards |  
-| **DevOps**         | Ubuntu, Bash, GitHub, Agile/Scrum |  
+| **BI**             | Oracle BI, Cognos, ETL Informatica design, Qlikview, executive dashboards, KPI Analysis, DB/400 | 
+| **DevOps**         | Linux Ubuntu, Bash, GitHub, Agile/Scrum, AS/400, Informix |  
 
 ---
 
 ### 🌟 **Why Collaborate With Me?**  
-- **Proven Leadership**: Managed teams for GE, Vidanta, and TCS in high-stakes BI/blockchain projects.  
-- **Multidisciplinary**: Bridge technical gaps between Web3, AI, and traditional finance.  
-- **Transparent Work**: Public GitHub repos demonstrate clean code and modular design.  
+- **Proven Leadership**: Managed teams for StayGoldCrypto.com (ARG-MX), Televisa (MX), GE Corporation (USA), Vidanta (MX-USA), and TCS-GDL (MX-INDIA) in high-stakes BI/blockchain projects.  
+- **Multidisciplinary**: Bridge technical gaps between Web3, AI, and traditional finance, Corporate Financial Consolidation and General Legner.
+- **Transparent Work**: Public GitHub repos demonstrate clean code and modular design.
 
 ---
 
 📌 **Let’s build the future of Web3 together!**  
-Contact me to discuss how I can contribute to InvoBlox’s vision.  
+Contact me by LinkedIn or Whatsapp to discuss how I can contribute to InvoBlox’s vision.
