@@ -1,7 +1,7 @@
-# contact-me
+# Contact Me
 Presentation Card as IT/BI/ Freelancer
 
-# Marco A. Domínguez C.
+## Marco A. Domínguez C.
 **Web3 & Blockchain Architect | AI/BI Consultant | Full-Stack Developer**  
 
 📍 **Location**: Buenos Aires, Argentina (Remote)  
