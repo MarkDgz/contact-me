@@ -9,7 +9,7 @@ Presentation Card as IT/BI/Web3 Freelancer
 📞 **WhatsApp**: +54 11 3503 1433  
 🔗 **LinkedIn**: [mark-dgz-wpman](https://www.linkedin.com/in/mark-dgz-wpman/)  
 💻 **GitHub**: [staygoldcrypto](https://github.com/staygoldcrypto)  
-💻 **CV landing  Web **: [curriculum-vitae-job-experience](https://staygoldrypto.com/team/cv-mkdgz.php)  
+💻 **CV landing  Web **: [curriculum-vitae-job-experience](https://staygoldcrypto.com/team/cv-mkdgz.php)  
 
 ---
 
